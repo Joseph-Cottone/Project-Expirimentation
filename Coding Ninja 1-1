@@ -1,0 +1,24 @@
+# Project-Expirimentation
+Testing with code
+
+name= "No Introduction Required"
+print name
+
+second_letter  "No Introduction Required"[1]
+
+print second_letter
+
+print len(name)
+
+name= "no introduction needed"
+
+print name.upper()
+
+c_string = "no introduction needed"
+for letter in c_string:
+print(letter)
+
+x=(45,46,47,48)
+y=('no introduction needed','c')
+
+
